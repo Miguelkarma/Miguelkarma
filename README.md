@@ -57,7 +57,6 @@ Hi! I'm an aspiring full-stack web developer who's currently learning and buildi
 <br>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
