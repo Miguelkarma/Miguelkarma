@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./readmeProfile.jpg" alt="Alt text" width="900" height="400">
+</p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpwa3BieW91cG15ejZ0eTc2MWFzcXZiZno2ajhrem10aTVsM2M0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l22ysLe54hZP0wubek/giphy.gif" width="1000" height="300" />
 
 ## 👨🏻‍💻 About Me:
 
