@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readmeProfile.jpg" alt="Alt text" width="900" height="400">
+  <img src="./pic.png" alt="Alt text" width="900" height="400">
 </p>
 
 
